@@ -19,7 +19,7 @@ public abstract class Player {
      *
      * @param name the unique ID to assign to this player.
      */
-    public Player(String name) {
+    public Player(String name){
         this.name = name;
     }
 
